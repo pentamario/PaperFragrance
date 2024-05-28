@@ -1,0 +1,100 @@
+.fragrance-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+    padding: 40px 20px;
+  }
+  
+  .fragrance-image-section {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .fragrance-image {
+    max-width: 100%;
+    border-radius: 10px;
+  }
+  
+  .fragrance-info-section {
+    flex: 2;
+    text-align: left;
+  }
+  
+  .fragrance-info-section h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .fragrance-info-section p {
+    margin: 10px 0;
+    font-size: 1.1em;
+    color: #555;
+  }
+  
+  .fragrance-info-section h2 {
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  .reviews-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+  }
+  
+  .review-item {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .reviewer-name {
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  
+  .review-rating {
+    color: #888;
+    font-size: 1em;
+    margin-top: 5px;
+  }
+  
+  .review-text {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #333;
+  }
+  
+  .scented-paper-button {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #000;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+  }
+  
+  .scented-paper-button:hover {
+    background-color: #333;
+  }
+  
+  @media (max-width: 768px) {
+    .fragrance-details {
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    .fragrance-info-section {
+      text-align: center;
+    }
+  }
+  

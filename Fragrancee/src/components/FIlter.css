@@ -1,0 +1,24 @@
+.filter {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+    width: 200px;
+  }
+  
+  .filter h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .filter label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em; /* Increased font size */
+    color: #333;
+  }
+  
+  .filter input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  

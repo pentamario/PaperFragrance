@@ -1,0 +1,43 @@
+/* src/components/Header.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  }
+  
+  .header-title {
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 5rem;
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .header-logo {
+    width: 40px; /* Adjust size as needed */
+    height: auto;
+    margin-right: 10px;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .header nav ul li {
+    margin-left: 20px;
+  }
+  
+  .header nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    margin: 0 5rem 0 0;
+  }
+  

@@ -1,0 +1,159 @@
+[
+    {
+      "id": 1,
+      "name": "Summer Breeze",
+      "category": "fruity",
+      "description": "A fresh and vibrant fragrance with notes of citrus.",
+      "price": 29.99,
+      "image": "/images/fragrance1.webp",
+      "reviews": [
+        { "reviewer": "Emma", "rating": 8.0, "text": "Lovely summer scent!" },
+        { "reviewer": "John", "rating": 7.5, "text": "Very refreshing." },
+        { "reviewer": "Alice", "rating": 8.2, "text": "Great value for money." }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rose Garden",
+      "category": "floral",
+      "description": "A delicate and romantic fragrance with notes of rose.",
+      "price": 35.00,
+      "image": "/images/fragrance2.webp",
+      "reviews": [
+        { "reviewer": "Sarah", "rating": 9.0, "text": "Perfect for date night." },
+        { "reviewer": "Michael", "rating": 8.5, "text": "Beautiful rose scent." },
+        { "reviewer": "Sophia", "rating": 9.2, "text": "My favorite floral perfume." }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Mystic Musk",
+      "category": "musk",
+      "description": "A deep and sensual fragrance with notes of musk.",
+      "price": 40.00,
+      "image": "/images/fragrance3.webp",
+      "reviews": [
+        { "reviewer": "Daniel", "rating": 7.3, "text": "Very mysterious." },
+        { "reviewer": "Emily", "rating": 8.9, "text": "Long-lasting fragrance." },
+        { "reviewer": "Jacob", "rating": 8.4, "text": "Highly recommend." }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Tropical Paradise",
+      "category": "fruity",
+      "description": "An exotic fragrance with notes of tropical fruits.",
+      "price": 25.50,
+      "image": "/images/fragrance4.webp",
+      "reviews": [
+        { "reviewer": "Olivia", "rating": 9.1, "text": "Feels like a vacation!" },
+        { "reviewer": "Ethan", "rating": 8.0, "text": "Love the tropical vibe." },
+        { "reviewer": "Mia", "rating": 8.6, "text": "Sweet and refreshing." }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lavender Fields",
+      "category": "floral",
+      "description": "A calming fragrance with notes of lavender.",
+      "price": 30.00,
+      "image": "/images/fragrance5.webp",
+      "reviews": [
+        { "reviewer": "Isabella", "rating": 8.5, "text": "So relaxing." },
+        { "reviewer": "Lucas", "rating": 8.7, "text": "Perfect for bedtime." },
+        { "reviewer": "Amelia", "rating": 9.0, "text": "Lovely lavender scent." }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ocean Mist",
+      "category": "fruity",
+      "description": "A refreshing fragrance with notes of ocean breeze and citrus.",
+      "price": 28.00,
+      "image": "/images/fragrance6.webp",
+      "reviews": [
+        { "reviewer": "Lily", "rating": 8.2, "text": "Smells like the ocean!" },
+        { "reviewer": "William", "rating": 8.4, "text": "Perfect summer scent." },
+        { "reviewer": "Grace", "rating": 8.0, "text": "Very refreshing." }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Blossom Delight",
+      "category": "floral",
+      "description": "A delightful fragrance with notes of blooming flowers.",
+      "price": 32.00,
+      "image": "/images/fragrance7.webp",
+      "reviews": [
+        { "reviewer": "Ava", "rating": 8.9, "text": "Lovely floral scent." },
+        { "reviewer": "James", "rating": 8.5, "text": "Feels like spring." },
+        { "reviewer": "Charlotte", "rating": 9.2, "text": "My new favorite." }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Midnight Musk",
+      "category": "musk",
+      "description": "A mysterious fragrance with deep musk notes.",
+      "price": 42.00,
+      "image": "/images/fragrance8.webp",
+      "reviews": [
+        { "reviewer": "Benjamin", "rating": 8.3, "text": "Very alluring." },
+        { "reviewer": "Harper", "rating": 8.7, "text": "Great for evenings." },
+        { "reviewer": "Henry", "rating": 8.5, "text": "Rich and long-lasting." }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Citrus Zest",
+      "category": "fruity",
+      "description": "A zesty fragrance with a blend of citrus fruits.",
+      "price": 27.00,
+      "image": "/images/fragrance9.webp",
+      "reviews": [
+        { "reviewer": "Ella", "rating": 8.4, "text": "Very zesty and fresh." },
+        { "reviewer": "Alexander", "rating": 8.5, "text": "Perfect for daily wear." },
+        { "reviewer": "Scarlett", "rating": 8.2, "text": "Energizing scent." }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Petal Bliss",
+      "category": "floral",
+      "description": "A blissful fragrance with a mix of petals and blossoms.",
+      "price": 34.00,
+      "image": "/images/fragrance10.webp",
+      "reviews": [
+        { "reviewer": "Lily", "rating": 9.1, "text": "Heavenly floral scent." },
+        { "reviewer": "Samuel", "rating": 8.8, "text": "Lovely and soft." },
+        { "reviewer": "Evelyn", "rating": 8.9, "text": "My go-to floral perfume." }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Earthy Musk",
+      "category": "musk",
+      "description": "An earthy fragrance with rich musk undertones.",
+      "price": 38.00,
+      "image": "/images/fragrance11.webp",
+      "reviews": [
+        { "reviewer": "Daniel", "rating": 8.4, "text": "Very grounding scent." },
+        { "reviewer": "Hannah", "rating": 8.5, "text": "Rich and earthy." },
+        { "reviewer": "Logan", "rating": 8.7, "text": "Love the musk notes." }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Berry Bliss",
+      "category": "fruity",
+      "description": "A sweet fragrance with notes of mixed berries.",
+      "price": 31.00,
+      "image": "/images/fragrance12.webp",
+      "reviews": [
+        { "reviewer": "Mia", "rating": 8.8, "text": "Sweet and fruity." },
+        { "reviewer": "David", "rating": 8.6, "text": "Love the berry scent." },
+        { "reviewer": "Chloe", "rating": 8.7, "text": "Perfect for any occasion." }
+      ]
+    }
+  ]
+  

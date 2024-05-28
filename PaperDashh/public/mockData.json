@@ -1,0 +1,63 @@
+[
+    {
+      "date": "2024-05-20",
+      "product": "A4 Paper",
+      "quantity": 500,
+      "revenue": 50.00
+    },
+    {
+      "date": "2024-05-21",
+      "product": "A3 Paper",
+      "quantity": 300,
+      "revenue": 45.00
+    },
+    {
+      "date": "2024-05-22",
+      "product": "A5 Paper",
+      "quantity": 200,
+      "revenue": 30.00
+    },
+    {
+      "date": "2024-05-23",
+      "product": "Letter Paper",
+      "quantity": 400,
+      "revenue": 60.00
+    },
+    {
+      "date": "2024-05-24",
+      "product": "Legal Paper",
+      "quantity": 350,
+      "revenue": 52.50
+    },
+    {
+      "date": "2024-05-25",
+      "product": "Cardstock",
+      "quantity": 150,
+      "revenue": 45.00
+    },
+    {
+      "date": "2024-05-26",
+      "product": "Glossy Paper",
+      "quantity": 100,
+      "revenue": 20.00
+    },
+    {
+      "date": "2024-05-27",
+      "product": "Matte Paper",
+      "quantity": 120,
+      "revenue": 18.00
+    },
+    {
+      "date": "2024-05-28",
+      "product": "Photo Paper",
+      "quantity": 80,
+      "revenue": 16.00
+    },
+    {
+      "date": "2024-05-29",
+      "product": "Recycled Paper",
+      "quantity": 900,
+      "revenue": 10.00
+    }
+  ]
+  

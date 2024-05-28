@@ -1,0 +1,41 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+    margin-top: 40px; /* Ensure there's a gap between cards and pagination */
+  }
+  
+  .pagination-list {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .page-item {
+    margin: 0 5px;
+  }
+  
+  .page-link {
+    display: block;
+    padding: 10px 15px;
+    border: 1px solid #000;
+    background-color: white;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+  }
+  
+  .page-link:hover {
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .active .page-link {
+    background-color: #000;
+    color: #fff;
+    border: 1px solid #000;
+  }
+  

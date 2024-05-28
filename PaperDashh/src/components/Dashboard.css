@@ -1,0 +1,34 @@
+/* src/components/Dashboard.css */
+.dashboard {
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    width: 60%;
+  }
+  
+  .dashboard-summary {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .summary-item {
+    background: #ffffff;
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+    padding: 20px;
+    width: 30%;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    margin-bottom: 20px;
+  }
+  
+  .summary-item.total-revenue {
+    width: 30%;
+  }
+  
+  .summary-item h3 {
+    margin-bottom: 10px;
+    font-size: 1.25rem;
+  }
+  
